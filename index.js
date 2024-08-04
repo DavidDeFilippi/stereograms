@@ -88,7 +88,7 @@ const toJson = async () => {
         },
         {
             id: 15,
-            poster: 'https://www.youtube.com/watch?v=PpK5ejLFEIE&ab_channel=3dimka',
+            poster: 'https://i.ytimg.com/an_webp/PpK5ejLFEIE/mqdefault_6s.webp?du=3000&sqp=CIjtvrUG&rs=AOn4CLA9AMuDWqP-66vnIqf033tnTCytkQ',
             src: 'https://www.youtube.com/embed/PpK5ejLFEIE?si=qb9NBzLJq4g602l4',
             iframe: true,
         },
